@@ -1,0 +1,78 @@
+{
+  "analyzedDirectory": "C:\\my-node-app",
+  "totalDirs": 10,
+  "totalFiles": 21,
+  "totalSizeBytes": 9799,
+  "extensions": {
+    ".js": {
+      "count": 4,
+      "size": 8282
+    },
+    ".txt": {
+      "count": 9,
+      "size": 1109
+    },
+    ".json": {
+      "count": 1,
+      "size": 247
+    },
+    ".md": {
+      "count": 7,
+      "size": 161
+    }
+  },
+  "top5Largest": [
+    {
+      "name": "task3.js",
+      "path": "task3.js",
+      "size": 3978
+    },
+    {
+      "name": "task2.js",
+      "path": "task2.js",
+      "size": 2528
+    },
+    {
+      "name": "task1.js",
+      "path": "task1.js",
+      "size": 1440
+    },
+    {
+      "name": "student_14.txt",
+      "path": "student_14.txt",
+      "size": 474
+    },
+    {
+      "name": "logs.txt",
+      "path": "logs.txt",
+      "size": 440
+    }
+  ],
+  "top5Smallest": [
+    {
+      "name": "info.txt",
+      "path": "project_14\\src\\info.txt",
+      "size": 22
+    },
+    {
+      "name": "README.md",
+      "path": "project_14\\src\\utils\\README.md",
+      "size": 23
+    },
+    {
+      "name": "README.md",
+      "path": "project_14\\src\\README.md",
+      "size": 23
+    },
+    {
+      "name": "README.md",
+      "path": "project_14\\src\\modules\\README.md",
+      "size": 23
+    },
+    {
+      "name": "README.md",
+      "path": "project_14\\src\\components\\README.md",
+      "size": 23
+    }
+  ]
+}
